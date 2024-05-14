@@ -1,0 +1,12 @@
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\bin\Debug\Connect-Four.exe.config
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\bin\Debug\Connect-Four.exe
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\bin\Debug\Connect-Four.pdb
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect-Four.csproj.AssemblyReference.cache
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect_Four.Form1.resources
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect_Four.Form2.resources
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect_Four.Form3.resources
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect_Four.Properties.Resources.resources
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect-Four.csproj.GenerateResource.cache
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect-Four.csproj.CoreCompileInputs.cache
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect-Four.exe
+C:\Users\msi\Desktop\Connect-Four\Connect-Four\obj\Debug\Connect-Four.pdb
